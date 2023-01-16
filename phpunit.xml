@@ -21,7 +21,7 @@
   </coverage>
   <testsuites>
     <testsuite name="amos">
-      <directory suffix="Test.php"></directory>
+      <directory suffix="Test.php">./tests/</directory>
     </testsuite>
   </testsuites>
   <php>

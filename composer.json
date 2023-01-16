@@ -23,10 +23,12 @@
   },
   "autoload": {
     "psr-4": {
+      "JB\\PhpStan\\": "./src"
     }
   },
   "autoload-dev": {
     "psr-4": {
+      "JB\\PhpStan\\Tests\\": "./tests"
     }
   },
   "config": {
